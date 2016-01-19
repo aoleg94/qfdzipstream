@@ -1,0 +1,3 @@
+[submodule "fdzipstream"]
+	path = fdzipstream
+	url = https://github.com/aoleg94/fdzipstream.git
